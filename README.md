@@ -10,6 +10,9 @@ A terminal-based music player that renders audio playback as a green-themed ASCI
   <img src="https://img.shields.io/badge/Lyrics-lrclib.net-43A047?style=for-the-badge&logo=microphone&logoColor=white" />
 </p>
 
+<img width="1897" height="636" alt="image" src="https://github.com/user-attachments/assets/a6588c58-21b9-4dc5-a567-59062ec32a15" />
+
+
 ---
 
 ## Features
