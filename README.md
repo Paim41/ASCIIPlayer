@@ -100,4 +100,6 @@ python asciiplayer.py --audio "song.mp3" --lrc "lyrics.lrc"
 
 ## Credits
 
-Built by [@Paim41](https://github.com/Paim41). Lyrics provided by [lrclib.net](https://lrclib.net).
+Built by [@Paim41](https://github.com/Paim41).
+<br>
+Lyrics provided by [lrclib.net](https://lrclib.net).
